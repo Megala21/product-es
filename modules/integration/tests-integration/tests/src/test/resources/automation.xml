@@ -130,6 +130,13 @@
                         <userName>testuser21</userName>
                         <password>testuser21</password>
                     </user>
+                    <user key="subscribeUser">
+                        <userName>subscribe_user</userName>
+                        <password>subscribe123</password>
+                        <roles>
+                            <role>Internal/store</role>
+                        </roles>
+                    </user>
                 </users>
             </tenant>
         </superTenant>
